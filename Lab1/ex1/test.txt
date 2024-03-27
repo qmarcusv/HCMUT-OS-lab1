@@ -1,4 +1,3 @@
-3_6.sh
 Makefile
 ans.txt
 ans_file
