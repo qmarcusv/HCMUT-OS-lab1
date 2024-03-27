@@ -4,6 +4,6 @@ calc.o: calc.c calc.h
 	gcc -c calc.c
 logic.o: logic.c calc.h
 	gcc -c logic.c
-clean:
+clean: # remove all object files and the executable
 	rm -f *.o calc
 

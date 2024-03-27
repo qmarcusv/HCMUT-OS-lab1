@@ -1,3 +1,4 @@
+// lib and header files
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
