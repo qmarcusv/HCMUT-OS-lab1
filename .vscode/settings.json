@@ -1,3 +1,8 @@
 {
-	"workbench.colorTheme": "Shades of Purple (Super Dark)"
+	"workbench.colorTheme": "Shades of Purple (Super Dark)",
+	"files.associations": {
+		"type_traits": "c",
+		"calc.h": "c",
+		"errno.h": "c"
+	}
 }
