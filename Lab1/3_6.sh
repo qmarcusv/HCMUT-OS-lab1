@@ -76,4 +76,3 @@ do
     read -n 1 -s -r -p ""
 done
 
-
